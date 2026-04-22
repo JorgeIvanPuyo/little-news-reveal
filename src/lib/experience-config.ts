@@ -33,58 +33,58 @@ export const recipients: Recipient[] = [
     label: "Alice",
     displayName: "Prima Alice",
     specialText:
-      "Estoy en camino para ser tu companero/a de juegos y compartir muchas aventuras.",
+      "Estoy en camino para ser tu compañero/a de juegos y compartir muchas aventuras.",
   },
   {
     id: "jenny",
     label: "Jenny",
-    displayName: "Tia Jenny",
+    displayName: "Tía Jenny",
     specialText: "Estoy en camino para hacer muchas travesuras contigo.",
   },
   {
     id: "lida",
     label: "Lida",
-    displayName: "Tia Lida",
+    displayName: "Tía Lida",
     specialText:
-      "Estoy en camino para llenarte de alegria y compartir muchas aventuras con Alice.",
+      "Estoy en camino para llenarte de alegría y compartir muchas aventuras con Alice.",
   },
   {
     id: "lizeth",
     label: "Lizeth",
-    displayName: "Tia Liz",
+    displayName: "Tía Liz",
     specialText:
       "Estoy en camino para robarte muchas sonrisas y crear recuerdos hermosos contigo.",
   },
   {
     id: "stephany",
     label: "Stephany",
-    displayName: "Tia Stephany",
+    displayName: "Tía Stephany",
     specialText:
-      "Estoy en camino para hacerte tia oficialmente y compartir momentos magicos contigo.",
+      "Estoy en camino para hacerte tía oficialmente y compartir momentos mágicos contigo.",
   },
   {
     id: "emma",
     label: "Emma",
     displayName: "Madrina Emma",
-    specialText: "Estoy en camino para llenar tus dias de ternura y dulzura.",
+    specialText: "Estoy en camino para llenar tus días de ternura y dulzura.",
   },
   {
     id: "jorge",
     label: "Jorge",
     displayName: "Abuelito Jorge",
-    specialText: "Estoy en camino para hacerte sonreir Abuelito.",
+    specialText: "Estoy en camino para hacerte sonreir.",
   },
   {
     id: "luz-lopez",
     label: "Luz Lopez",
     displayName: "Abuelita Luz",
-    specialText: "Estoy en camino para darte muchos abrazos Abuelita.",
+    specialText: "Estoy en camino para darte muchos abrazos.",
   },
   {
     id: "luz-poloche",
     label: "Luz Poloche",
     displayName: "Abuelita Luz",
-    specialText: "Estoy en camino para alegrar tus dias Abuelita.",
+    specialText: "Estoy en camino para alegrar tus días.",
   },
 ];
 
@@ -132,7 +132,7 @@ export const scenes: Scene[] = [
     id: "scene-5",
     text: "",
     image: "/assets/images/ultrasound.jpeg",
-    durationMs: 5000,
+    durationMs: 7000,
     variant: "ultrasound",
   },
   {
