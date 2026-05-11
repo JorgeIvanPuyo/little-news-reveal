@@ -98,6 +98,12 @@ export const recipients: Recipient[] = [
     displayName: "Tío Andrés",
     specialText: "Estoy en camino para hacerte sonreir.",
   },
+  {
+    id: "amparo",
+    label: "Amparo",
+    displayName: "Tía Abuela Amparo",
+    specialText: "Estoy en camino para llenarte de amor.",
+  },
 ];
 
 // Drop your real videos at these paths and they will be picked up automatically.
